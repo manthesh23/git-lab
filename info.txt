@@ -1,2 +1,4 @@
 This is the first line of the file.
 Git is a distributed version control system.
+This is a new line added later.
+Change from dev2 branch.
